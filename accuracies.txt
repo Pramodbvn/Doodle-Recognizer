@@ -1,0 +1,180 @@
+FINDING THE OPTIMAL M value- 1st RUN
+
+number of hidden nodes: 10
+Training completed in 76.04 seconds.
+Training set Accuracy: 27.37%
+Test set Accuracy    : 27.18%
+number of hidden nodes: 20
+Training completed in 94.78 seconds.
+Training set Accuracy: 52.42%
+Test set Accuracy    : 50.92%
+number of hidden nodes: 30
+Training completed in 101.18 seconds.
+Training set Accuracy: 60.37%
+Test set Accuracy    : 58.77%
+number of hidden nodes: 40
+Training completed in 122.22 seconds.
+Training set Accuracy: 64.56%
+Test set Accuracy    : 61.74%
+number of hidden nodes: 50
+Training completed in 126.99 seconds.
+Training set Accuracy: 65.16%
+Test set Accuracy    : 63.04%
+number of hidden nodes: 60
+Training completed in 156.50 seconds.
+Training set Accuracy: 67.63%
+Test set Accuracy    : 64.10%
+number of hidden nodes: 70
+Training completed in 145.14 seconds.
+Training set Accuracy: 69.00%
+Test set Accuracy    : 65.50%
+number of hidden nodes: 80
+Training completed in 171.54 seconds.
+Training set Accuracy: 70.04%
+Test set Accuracy    : 65.93%
+number of hidden nodes: 90
+Training completed in 214.89 seconds.
+Training set Accuracy: 69.93%
+Test set Accuracy    : 66.24%
+number of hidden nodes: 100
+Training completed in 213.08 seconds.
+Training set Accuracy: 70.96%
+Test set Accuracy    : 67.14%
+-----------------------------------------------------------------------------
+FINDING THE OPTIMAL M value- 2nd RUN
+number of hidden nodes: 10
+Training completed in 75.98 seconds.
+Training set Accuracy: 46.09%
+Test set Accuracy    : 45.36%
+number of hidden nodes: 20
+Training completed in 89.02 seconds.
+Training set Accuracy: 57.50%
+Test set Accuracy    : 55.84%
+number of hidden nodes: 30
+Training completed in 100.20 seconds.
+Training set Accuracy: 60.90%
+Test set Accuracy    : 58.76%
+number of hidden nodes: 40
+Training completed in 109.17 seconds.
+Training set Accuracy: 65.68%
+Test set Accuracy    : 63.04%
+number of hidden nodes: 50
+Training completed in 117.54 seconds.
+Training set Accuracy: 66.55%
+Test set Accuracy    : 63.62%
+number of hidden nodes: 60
+Training completed in 136.18 seconds.
+Training set Accuracy: 67.87%
+Test set Accuracy    : 64.95%
+number of hidden nodes: 70
+Training completed in 155.37 seconds.
+Training set Accuracy: 68.52%
+Test set Accuracy    : 65.14%
+number of hidden nodes: 80
+Training completed in 179.26 seconds.
+Training set Accuracy: 69.02%
+Test set Accuracy    : 64.79%
+number of hidden nodes: 90
+Training completed in 256.47 seconds.
+Training set Accuracy: 70.26%
+Test set Accuracy    : 66.60%
+number of hidden nodes: 100
+Training completed in 240.79 seconds.
+Training set Accuracy: 71.45%
+Test set Accuracy    : 67.19%
+------------------------------------------------------------------------------------------
+Considering optimal value of M to be 100, finding the optimal LAMBDA
+
+for lambda value : 0
+Training completed in 189.62 seconds.
+Training set Accuracy: 69.78%
+Test set Accuracy    : 65.82%
+for lambda value : 2
+Training completed in 195.90 seconds.
+Training set Accuracy: 70.21%
+Test set Accuracy    : 66.10%
+for lambda value : 4
+Training completed in 206.81 seconds.
+Training set Accuracy: 70.90%
+Test set Accuracy    : 66.55%
+for lambda value : 6
+Training completed in 193.40 seconds.
+Training set Accuracy: 71.56%
+Test set Accuracy    : 66.93%
+for lambda value : 8
+Training completed in 201.92 seconds.
+Training set Accuracy: 71.18%
+Test set Accuracy    : 66.52%
+for lambda value : 10
+Training completed in 189.69 seconds.
+Training set Accuracy: 71.10%
+Test set Accuracy    : 66.31%
+for lambda value : 12
+Training completed in 204.90 seconds.
+Training set Accuracy: 71.21%
+Test set Accuracy    : 66.90%
+for lambda value : 14
+Training completed in 210.62 seconds.
+Training set Accuracy: 71.06%
+Test set Accuracy    : 66.45%
+for lambda value : 16
+Training completed in 212.55 seconds.
+Training set Accuracy: 68.48%
+Test set Accuracy    : 64.87%
+for lambda value : 18
+Training completed in 190.58 seconds.
+Training set Accuracy: 71.24%
+Test set Accuracy    : 66.75%
+for lambda value : 20
+Training completed in 187.51 seconds.
+Training set Accuracy: 71.62%
+Test set Accuracy    : 67.31%
+-------------------------------------------------------------------------------------------
+Finding the optimal lambda, when M = 10
+
+for lambda value : 0
+Training completed in 84.69 seconds.
+Training set Accuracy: 44.95%
+Test set Accuracy    : 44.74%
+for lambda value : 2
+Training completed in 77.48 seconds.
+Training set Accuracy: 45.24%
+Test set Accuracy    : 44.62%
+for lambda value : 4
+Training completed in 77.08 seconds.
+Training set Accuracy: 45.15%
+Test set Accuracy    : 43.94%
+for lambda value : 6
+Training completed in 87.18 seconds.
+Training set Accuracy: 38.42%
+Test set Accuracy    : 38.00%
+for lambda value : 8
+Training completed in 80.11 seconds.
+Training set Accuracy: 48.25%
+Test set Accuracy    : 47.38%
+for lambda value : 10
+Training completed in 80.22 seconds.
+Training set Accuracy: 38.20%
+Test set Accuracy    : 37.92%
+for lambda value : 12
+Training completed in 84.66 seconds.
+Training set Accuracy: 38.78%
+Test set Accuracy    : 38.22%
+for lambda value : 14
+Training completed in 75.58 seconds.
+Training set Accuracy: 44.47%
+Test set Accuracy    : 44.08%
+for lambda value : 16
+Training completed in 81.51 seconds.
+Training set Accuracy: 43.36%
+Test set Accuracy    : 42.67%
+for lambda value : 18
+Training completed in 81.40 seconds.
+Training set Accuracy: 46.52%
+Test set Accuracy    : 45.53%
+for lambda value : 20
+Training completed in 90.33 seconds.
+Training set Accuracy: 43.53%
+Test set Accuracy    : 43.23%
+
+-------------------------------------------------------------------------------------
